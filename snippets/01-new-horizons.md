@@ -1,0 +1,15 @@
+---
+title: 'New Horizons'
+title-url: '2024/march/new-horizons'
+title-class: 'font-semibold text-snow-100 hover:text-snow-500 dark:text-white'
+title-style: 'text-shadow: 0px 0px 7px black;'
+icon: 'o-rocket-launch'
+-icon-class: ''
+link-url: '#new-horizons'
+link-title: 'Software Engineer'
+link-icon: 's-arrow-small-right'
+content: 'snippets/01-new-horizons.md'
+figure-background: 'images/thumbs/new-horizons.png'
+figure-alt: 'Software Engineer'
+figure-link: '2024/03/new-horizons'
+---
